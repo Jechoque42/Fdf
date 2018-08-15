@@ -1,5 +1,7 @@
 # Fdf
 
+First graphic project.
+
 ##Compiling
 
 Include Minilibx Library and run with make.
