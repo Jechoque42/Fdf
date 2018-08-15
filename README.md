@@ -2,15 +2,15 @@
 
 First graphic project.
 
-##Compiling
+## Compiling
 
 Include Minilibx Library and run with make.
 
-##Usage
+## Usage
 
 `./fdf [path_map_file]`
 
-##Objectives
+## Objectives
 
 Basic graphic library
 
